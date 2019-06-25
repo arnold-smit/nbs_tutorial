@@ -1,2 +1,2 @@
-# nbs_tutorial
-2019 notebooks
+# NBS Tutorial Notebooks
+Notebooks used for the Pyton & R tutorial sessions.
