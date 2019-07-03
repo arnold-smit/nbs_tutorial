@@ -1,0 +1,1 @@
+palindromes = {k:v for k,v in data.items() if k == k[::-1]}

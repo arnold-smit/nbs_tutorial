@@ -1,0 +1,4 @@
+f = open('data/words_dictionary.json','r')
+for _ in range(5):
+    print(f.readline().strip())
+f.close()

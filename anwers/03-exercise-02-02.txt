@@ -1,0 +1,2 @@
+with open('data/words_dictionary.json', 'r') as f:
+    data = json.load(f)

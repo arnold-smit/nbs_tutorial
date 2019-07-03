@@ -1,0 +1,4 @@
+def print_multiplication_table(m,ifrom,ito):
+    print(f'Table of {m}:')
+    for idx in range(ifrom,ito+1):
+        print(f'    {idx} x {m} = {idx*m}')

@@ -1,0 +1,3 @@
+for k, v in tbls.items():
+    print(f'Table {k}')
+    print('\n'.join([f'{i} * {m} = {im}' for i, m, im in v]))

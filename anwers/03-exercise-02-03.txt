@@ -1,0 +1,2 @@
+for k in data.keys():
+    data[k] = len(k)

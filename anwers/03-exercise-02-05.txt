@@ -1,0 +1,1 @@
+sorted_palindromes = sorted(palindromes.items(), key = lambda kv: kv[1], reverse = True)

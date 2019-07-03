@@ -1,0 +1,1 @@
+tbls = {m:print_multiplication_table(m,1,5) for m in range(11,14)}

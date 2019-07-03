@@ -1,0 +1,2 @@
+for m in range(11,14):
+    print_multiplication_table(m,1,4)
