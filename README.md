@@ -1,2 +1,2 @@
 # NBS Tutorial Notebooks
-Notebooks used for the Pyton & R tutorial sessions.
+Notebooks used for the Pyton tutorial sessions.
